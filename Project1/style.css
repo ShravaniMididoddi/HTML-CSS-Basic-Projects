@@ -61,6 +61,7 @@ img {
   font-weight: 300;
 }
 .biography_section ul {
+  margin-left: 50px;
   margin-top: 20px;
   font-size: 20px;
   line-height: 30px;
